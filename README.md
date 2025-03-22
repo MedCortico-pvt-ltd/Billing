@@ -1,7 +1,7 @@
 # Medcortico Billing
 
 <p align="center">
-  <img src="MedcorticoBilling.png" alt="Medcortico Billing Logo" width="200"/>
+  <img src="Medcortico-Billing.png" alt="Medcortico Billing Logo" width="200"/>
 </p>
 
 Medcortico Billing is a simple and fast billing application for businesses. It allows users to create invoices, track payments, and manage billing efficiently.
